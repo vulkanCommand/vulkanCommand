@@ -25,7 +25,7 @@ I didn’t become an engineer by following a straight path.
 
 Most of what I know came from curiosity and from building things just to see if they would work.
 
-I started with full stack development, building interfaces and connecting APIs. Over time I became more interested in the systems behind the scenes — backend architecture, cloud infrastructure, automation, and intelligent software.
+I started with full stack development, building interfaces and connecting APIs. Over time I became more interested in the systems behind the scenes - backend architecture, cloud infrastructure, automation, and intelligent software.
 
 Many of my projects begin with a simple question.
 
