@@ -6,21 +6,19 @@
 📧 gdkalyan2109@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/durgakalyan  
 🌐 Portfolio: https://durgakalyan.com  
-💻 GitHub: https://github.com/vulkanCommand  
+💻 GitHub: https://github.com/vulkanCommand
 
 ---
 
 ## About Me
 
-I enjoy building systems that sit at the intersection of **AI, cloud infrastructure, and real-world products**.
+I enjoy building systems where AI, cloud infrastructure, and product thinking come together.
 
-My career started in full-stack development, and over time I moved deeper into backend engineering, cloud architecture, and intelligent systems. What keeps me motivated is the process of turning ideas into working platforms — from writing the first API to deploying a system that people can actually use.
+My career started in full stack development, and over time I moved deeper into backend engineering, automation, cloud architecture, and intelligent systems. What keeps me motivated is the process of taking an idea from a rough concept to a working product that people can actually use.
 
-Today my work focuses on **AI-powered applications, developer platforms, and scalable backend services**. I spend a lot of time experimenting with large language models, automation workflows, and cloud infrastructure.
+I like building practical things. Sometimes that means AI powered tools, sometimes it means backend services, and sometimes it means infrastructure that quietly keeps everything running. I’m especially interested in products that combine strong engineering with real user value.
 
-Along the way I’ve built several projects ranging from AI assistants and analytics platforms to developer tools and wellness applications.
-
-I’m currently working as an **AI Research Intern**, exploring practical uses of large language models and building prototype systems that combine AI with modern cloud architectures.
+Right now, I’m working as an AI Research Intern, exploring how large language models, NLP techniques, and workflow automation can solve real operational problems in a useful and grounded way.
 
 ---
 
@@ -29,66 +27,98 @@ I’m currently working as an **AI Research Intern**, exploring practical uses o
 * AI systems and LLM integrations  
 * Cloud infrastructure and DevOps automation  
 * Backend and microservices architecture  
-* Intelligent automation workflows  
+* Intelligent workflow automation  
 * Developer platforms and SaaS products  
 
-Technologies I often use include **Python, FastAPI, Docker, AWS, PostgreSQL, OpenAI APIs, and modern cloud deployment stacks**.
+Technologies I often work with include **Python, FastAPI, C#, Docker, AWS, PostgreSQL, OpenAI APIs, and modern cloud deployment stacks**.
+
+---
+
+## Experience
+
+### AI Researcher Intern  
+**Help Us Grow Reading Program**  
+*Nov 2025 – Present | Remote, USA*
+
+I work on AI driven automations that help simplify internal operations and reduce manual effort across the organization.
+
+Highlights:
+
+* Designed and implemented automations for HR and internal workflows, including document processing, data handling, and operational task flows
+* Researched and applied generative AI and NLP techniques to analyze organizational data, summarize content, and turn unstructured information into something teams can use
+* Worked closely with stakeholders to understand practical needs and translate them into working automation solutions
+
+### Full Stack Software Engineer  
+**DXC Technology | Progressive Insurance**  
+*Jun 2022 – Aug 2023 | Remote, USA / Bengaluru, India*
+
+At DXC, I worked on enterprise web applications and backend systems, focusing on reliability, maintainability, and production quality.
+
+Highlights:
+
+* Engineered and deployed ASP.NET applications and optimized MySQL backends across 3 production modules with strong regression coverage and zero post deployment errors
+* Investigated and resolved 500+ server side issues through deep analysis and code level troubleshooting
+* Collaborated with SRE teams on monitoring improvements and automation scripts to strengthen system reliability
+* Built practical solutions with a strong focus on end to end ownership and stability in production environments
 
 ---
 
 ## Projects
 
-### xCommand Cloud — Automation Workspace Platform
+### xCommand Cloud
 
 https://xcommand.cloud
 
-xCommand Cloud is a platform that allows users to launch their own **temporary n8n automation workspaces directly in the browser**.
+xCommand Cloud is a self hosted SaaS platform that lets users launch their own temporary n8n automation workspaces directly in the browser.
 
-The idea behind the project was to make automation experimentation easy. Instead of setting up n8n locally or configuring servers, users can instantly create a workspace and start building workflows.
+The goal was to make automation more accessible. Instead of asking users to install and configure n8n locally, the platform gives them a ready to use workspace with automated provisioning, isolation, and expiry handling built in.
 
 Key features include:
 
-* On-demand n8n workspace creation
-* Containerized infrastructure using Docker
+* On demand n8n workspace creation
+* Time based rental model with 1 day and 5 day plans
+* Workspace isolation using Docker
 * Reverse proxy routing with Traefik
-* Automatic workspace lifecycle management
-* Multi-user platform architecture
+* Automated cleanup and lifecycle management
+* Stripe based payment flow
+* Monitoring with Prometheus and Grafana
+* Production deployment on VPS infrastructure with DevOps oriented setup
 
-The project combines backend APIs, infrastructure orchestration, and cloud deployment to create a simple developer-friendly automation platform.
+This project brought together backend APIs, infrastructure orchestration, billing logic, monitoring, and polished UI design into one working platform.
 
 ---
 
-### Gentle Path — AI-Supported Healing Platform
+### Gentle Path
 
 https://gentlepath.trenith.com
 
-Gentle Path is a digital healing platform designed to support people through a structured **90-day personal recovery journey**.
+Gentle Path is a healing focused web application designed to support people through a structured 90 day personal recovery journey.
 
-The application provides guided reflections, structured milestones, and supportive tools designed to help individuals move through emotional healing with clarity and intention.
+The platform is centered around clarity, reflection, and consistency. I wanted it to feel calm, intentional, and supportive rather than overwhelming. The product combines thoughtful user experience with guided digital support.
 
-Features include:
+Key features include:
 
-* Structured 90-day healing journey
-* Guided reflection prompts
-* Progress tracking
-* Supportive AI assistant
-* Clean and distraction-free interface
+* Structured 90 day healing journey
+* Guided reflections and progress based milestones
+* Supportive AI powered interactions
+* Simple and calming product design
+* Focus on emotional clarity, routine, and self guided growth
 
-The goal of the project is to combine thoughtful design with technology to create a calm and supportive digital space.
+Gentle Path is one of the projects where product purpose mattered just as much as the engineering.
 
 ---
 
-### Lakshmi — AI Personal Assistant
+### Lakshmi
 
-Lakshmi is an experimental AI assistant built to explore how personal AI systems can operate in a home environment.
+Lakshmi is an experimental AI personal assistant built to explore how a more contextual and interactive personal AI system could work in a home environment.
 
-The assistant runs on a Raspberry Pi and combines voice interaction, AI responses, and contextual memory.
+It runs on Raspberry Pi and combines voice interaction, AI responses, and memory based behavior.
 
 Features include:
 
-* Voice interaction and wake-word detection
+* Voice interaction and wake word detection
 * AI powered question answering
-* Voice responses using text-to-speech
+* Voice responses using text to speech
 * Personal reminders and interaction history
 * Web interface for monitoring and control
 
@@ -96,18 +126,19 @@ GitHub: https://github.com/vulkanCommand/Lakshmi
 
 ---
 
-### RooflyticsAI — AI CRM Analytics Platform
+### RooflyticsAI
 
-RooflyticsAI is an AI-powered analytics platform designed to help teams query CRM data using natural language.
+RooflyticsAI is an AI powered business analytics platform designed to help users query sales and CRM data using natural language.
 
-Instead of writing SQL queries, users can simply ask questions about their data, and the system converts those questions into database queries.
+Instead of writing SQL manually, users can ask business questions in plain English and receive useful insights from the system.
 
 Key capabilities include:
 
-* Natural language to SQL translation
-* FastAPI microservices architecture
-* PostgreSQL database backend
-* Containerized deployment
+* Natural language to SQL querying with GPT integration
+* FastAPI based backend architecture
+* PostgreSQL database integration
+* Dockerized microservices deployment
+* Cloud deployment using AWS App Runner
 
 GitHub: https://github.com/vulkanCommand/Rooflytics-AI
 
@@ -115,21 +146,26 @@ GitHub: https://github.com/vulkanCommand/Rooflytics-AI
 
 ### AI File Analyzer
 
-A serverless application that analyzes uploaded documents and generates summaries using AI.
+A serverless AI document analysis system built using AWS services.
 
-The system automatically detects file type, extracts content, and generates insights for the user.
+The application detects file types, extracts document content, and generates context aware summaries using AI. It was designed to handle document workflows efficiently while staying lightweight and scalable.
 
-Built using AWS serverless infrastructure including Lambda and API Gateway.
+Key points:
+
+* Built with AWS Lambda and API Gateway
+* Integrated Amazon Bedrock for document summarization
+* Improved processing efficiency significantly across 200+ test cases
+* Designed for unstructured file analysis including PDF and DOCX documents
 
 GitHub: https://github.com/vulkanCommand/AI-File-Analyzer
 
 ---
 
-### SnapFile — Real-Time File Sync Tool
+### SnapFile
 
-SnapFile is a lightweight system that watches for file changes and synchronizes files to cloud storage.
+SnapFile is a file monitoring and synchronization tool built for fast cloud based file updates.
 
-It includes a web interface where users can view and manage synchronized files.
+It watches local file changes and syncs them to AWS S3, while also offering a simple web interface for file access and management.
 
 GitHub: https://github.com/vulkanCommand/SnapFile
 
@@ -137,67 +173,49 @@ GitHub: https://github.com/vulkanCommand/SnapFile
 
 ## Technical Skills
 
-**Languages**
+**AI and Automation**  
+OpenAI APIs, Claude, Gemini, Grok, AWS Bedrock, Generative AI, NLP, AI agents, Retrieval Augmented Generation, OpenAI Whisper, n8n, Zapier
 
-Python  
-C#  
-JavaScript  
-SQL  
+**Languages and Frameworks**  
+Python, C#, ASP.NET, Java, Angular, JavaScript
 
-**Backend Development**
+**Frontend**  
+HTML5, CSS3, JavaScript, Single Page Applications
 
-FastAPI  
-REST APIs  
-Microservices architecture  
-Authentication and role-based systems  
+**Backend and APIs**  
+FastAPI, Flask, REST APIs, Postman, Docker, Microservices
 
-**Cloud & DevOps**
+**Cloud and DevOps**  
+AWS, Lambda, RDS, EC2, S3, App Runner, CloudWatch, API Gateway, IAM, Git, CI/CD Pipelines
 
-AWS (Lambda, EC2, S3, RDS, API Gateway, IAM)  
-Docker  
-Infrastructure automation  
-CI/CD pipelines  
+**Databases**  
+PostgreSQL, MySQL, DynamoDB, NoSQL systems, SQLAlchemy
 
-**Artificial Intelligence**
+---
 
-Large language model integrations  
-OpenAI APIs  
-Prompt engineering  
-Natural language processing  
+## Education
 
-**Databases**
+### Union Commonwealth University  
+**Master of Science in Information Management Systems**  
+*Aug 2025 – Present*
 
-PostgreSQL  
-MySQL  
-SQLAlchemy  
+### Florida Atlantic University  
+**Master of Science in Computer and Information Sciences**  
+*Aug 2023 – May 2025*
 
 ---
 
 ## Achievements
 
-DXC Champ Award — recognized for contributions to software development and infrastructure automation  
-
-Academic Excellence — 4.0 GPA (Fall 2024), Florida Atlantic University  
-
-Innovator of the Year — ViBha Bharatiya Vijnana Mandali (2019)
-
----
-
-## Certifications
-
-AWS Cloud Practitioner Essentials  
-
-Full Stack Web Development  
-
-Introduction to Databases and SQL Querying  
-
-Ethical Hacking and Cybersecurity
+* Academic Excellence Award from Florida Atlantic University for achieving a 4.0 GPA in Fall 2024
+* DXC Champ Award for exceptional performance and dedication in FY23 Q4
+* Best Innovator Award from ViBha India in 2019
 
 ---
 
 ## Connect
 
-If you're working on interesting problems around **AI systems, cloud platforms, or developer tools**, I’m always happy to connect.
+If you’re building something around AI systems, cloud platforms, developer tools, or practical automation, I’d be happy to connect.
 
 📧 gdkalyan2109@gmail.com  
 🔗 https://linkedin.com/in/durgakalyan  
