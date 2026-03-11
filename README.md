@@ -1,121 +1,205 @@
-# Durga Kalyan Gandiboyina | Cloud & AI Engineer
+# Durga Kalyan Gandiboyina
 
-**Location:** Boca Raton, FL
-**Email:** [gdkalyan2109@gmail.com](mailto:gdkalyan2109@gmail.com)
-**LinkedIn:** [linkedin.com/in/durgakalyan](https://www.linkedin.com/in/durgakalyan)
-**Portfolio:** [durgakalyan.com](https://www.durgakalyan.com/)
-**GitHub:** [github.com/vulkanCommand](https://github.com/vulkanCommand)
+**AI Engineer • Cloud Architect • Systems Builder**
+
+📍 Boca Raton, Florida  
+📧 gdkalyan2109@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/durgakalyan  
+🌐 Portfolio: https://durgakalyan.com  
+💻 GitHub: https://github.com/vulkanCommand  
 
 ---
 
 ## About Me
 
-I am a Cloud & AI Engineer with strong expertise in AWS, DevOps, Microservices, and Generative AI. My career began in full stack development using .NET technologies, but my curiosity and drive for innovation led me into the world of cloud computing, automation, and AI. I specialize in designing scalable backend systems, building microservices architectures, and deploying intelligent AI-powered applications.
+I enjoy building systems that sit at the intersection of **AI, cloud infrastructure, and real-world products**.
 
-With 4+ years of hands-on experience, I’ve developed and deployed real-world solutions using serverless technologies, REST APIs, and infrastructure automation. I believe in building meaningful solutions that create impact, and many of my projects are open-sourced and available on GitHub.
+My career started in full-stack development, and over time I moved deeper into backend engineering, cloud architecture, and intelligent systems. What keeps me motivated is the process of turning ideas into working platforms — from writing the first API to deploying a system that people can actually use.
 
-* DXC Champ Award winner for outstanding work in software development and infrastructure automation
-* Founder of WebX Digital Solutions – delivering digital automation and cloud-based web services
-* Pursuing M.S. in Computer Science from Florida Atlantic University
+Today my work focuses on **AI-powered applications, developer platforms, and scalable backend services**. I spend a lot of time experimenting with large language models, automation workflows, and cloud infrastructure.
 
----
+Along the way I’ve built several projects ranging from AI assistants and analytics platforms to developer tools and wellness applications.
 
-## What I Do
-
-* **Cloud Engineering & DevOps** – AWS, Terraform, CI/CD, Serverless Architecture
-* **Microservices & REST APIs** – FastAPI, .NET Core, AWS Lambda + API Gateway, Dockerized APIs
-* **Generative AI & Machine Learning** – Amazon Bedrock, OpenAI API, NLP workflows
-* **Backend & Full Stack Development** – Python, .NET, JavaScript, PostgreSQL
-* **Cloud Security** – IAM, encryption, VPC configuration, role-based access controls
+I’m currently working as an **AI Research Intern**, exploring practical uses of large language models and building prototype systems that combine AI with modern cloud architectures.
 
 ---
 
-## Featured Projects
+## What I Work On
 
-### AI-Powered File Analyzer (Web App)
+* AI systems and LLM integrations  
+* Cloud infrastructure and DevOps automation  
+* Backend and microservices architecture  
+* Intelligent automation workflows  
+* Developer platforms and SaaS products  
 
-* Developed a fully serverless AI file analyzer using AWS Bedrock, Lambda, and API Gateway
-* Automatically detects file type, extracts content, and returns a summarized response using AI
-* Improved processing time and document insights for users handling unstructured files
-* GitHub: [AI-File-Analyzer](https://github.com/vulkanCommand/AI-File-Analyzer)
+Technologies I often use include **Python, FastAPI, Docker, AWS, PostgreSQL, OpenAI APIs, and modern cloud deployment stacks**.
 
-### AWS DevOps Infrastructure Automation
+---
 
-* Built scalable infrastructure with Terraform, AWS CloudFormation, and integrated CI/CD
-* Automated build and deployment pipelines using GitHub Actions and AWS CodePipeline
-* Enforced security with IAM roles and environment isolation
-* GitHub: [aws-devops-portfolio](https://github.com/vulkanCommand/aws-devops-portfolio)
+## Projects
 
-### SnapFile – Real-time File Sync System
+### xCommand Cloud — Automation Workspace Platform
 
-* Created a file monitoring and auto-sync tool that uploads to AWS S3 when changes are detected
-* Includes a responsive web UI for accessing synced files via the browser
-* GitHub: [SnapFile](https://github.com/vulkanCommand/SnapFile)
+https://xcommand.cloud
 
-### BuildCRM – AI-Driven CRM Analytics (Microservices)
+xCommand Cloud is a platform that allows users to launch their own **temporary n8n automation workspaces directly in the browser**.
 
-* Designed a modular CRM analytics app using FastAPI, PostgreSQL (RDS), and Docker
-* Enables users to ask sales-related questions in natural language
-* Converts questions to SQL queries using ChatGPT API and returns clean visual responses
-* Hosted via AWS App Runner and S3/CloudFront
-* GitHub: [Rooflytics-AI](https://github.com/vulkanCommand/Rooflytics-AI)
+The idea behind the project was to make automation experimentation easy. Instead of setting up n8n locally or configuring servers, users can instantly create a workspace and start building workflows.
 
-### Lakshmi – AI Personal Assistant (Voice + Vision)
+Key features include:
 
-* Built a Raspberry Pi-powered AI assistant with wake-word detection, face/voice authentication, and memory
-* Integrates Amazon Bedrock for real-time question answering and Coqui TTS for voice response
-* Features include task reminders, mood tracking, chat memory, HDMI screen reading, and web interface with WebSocket support
-* Designed for continuous 24/7 operation with personalized interaction and secure access
-* GitHub: [Lakshmi](https://github.com/vulkanCommand/Lakshmi)
+* On-demand n8n workspace creation
+* Containerized infrastructure using Docker
+* Reverse proxy routing with Traefik
+* Automatic workspace lifecycle management
+* Multi-user platform architecture
+
+The project combines backend APIs, infrastructure orchestration, and cloud deployment to create a simple developer-friendly automation platform.
+
+---
+
+### Gentle Path — AI-Supported Healing Platform
+
+https://gentlepath.trenith.com
+
+Gentle Path is a digital healing platform designed to support people through a structured **90-day personal recovery journey**.
+
+The application provides guided reflections, structured milestones, and supportive tools designed to help individuals move through emotional healing with clarity and intention.
+
+Features include:
+
+* Structured 90-day healing journey
+* Guided reflection prompts
+* Progress tracking
+* Supportive AI assistant
+* Clean and distraction-free interface
+
+The goal of the project is to combine thoughtful design with technology to create a calm and supportive digital space.
+
+---
+
+### Lakshmi — AI Personal Assistant
+
+Lakshmi is an experimental AI assistant built to explore how personal AI systems can operate in a home environment.
+
+The assistant runs on a Raspberry Pi and combines voice interaction, AI responses, and contextual memory.
+
+Features include:
+
+* Voice interaction and wake-word detection
+* AI powered question answering
+* Voice responses using text-to-speech
+* Personal reminders and interaction history
+* Web interface for monitoring and control
+
+GitHub: https://github.com/vulkanCommand/Lakshmi
+
+---
+
+### RooflyticsAI — AI CRM Analytics Platform
+
+RooflyticsAI is an AI-powered analytics platform designed to help teams query CRM data using natural language.
+
+Instead of writing SQL queries, users can simply ask questions about their data, and the system converts those questions into database queries.
+
+Key capabilities include:
+
+* Natural language to SQL translation
+* FastAPI microservices architecture
+* PostgreSQL database backend
+* Containerized deployment
+
+GitHub: https://github.com/vulkanCommand/Rooflytics-AI
+
+---
+
+### AI File Analyzer
+
+A serverless application that analyzes uploaded documents and generates summaries using AI.
+
+The system automatically detects file type, extracts content, and generates insights for the user.
+
+Built using AWS serverless infrastructure including Lambda and API Gateway.
+
+GitHub: https://github.com/vulkanCommand/AI-File-Analyzer
+
+---
+
+### SnapFile — Real-Time File Sync Tool
+
+SnapFile is a lightweight system that watches for file changes and synchronizes files to cloud storage.
+
+It includes a web interface where users can view and manage synchronized files.
+
+GitHub: https://github.com/vulkanCommand/SnapFile
 
 ---
 
 ## Technical Skills
 
+**Languages**
+
+Python  
+C#  
+JavaScript  
+SQL  
+
+**Backend Development**
+
+FastAPI  
+REST APIs  
+Microservices architecture  
+Authentication and role-based systems  
+
 **Cloud & DevOps**
-AWS (Lambda, API Gateway, S3, EC2, IAM, RDS, VPC), CloudFormation, Terraform
-CI/CD – GitHub Actions, Jenkins, AWS CodePipeline
-Docker, Kubernetes, ECR, App Runner
 
-**AI & Machine Learning**
-Amazon Bedrock, OpenAI GPT APIs, Python (pandas, NumPy, scikit-learn)
-Natural Language Processing (NLP), LLM integration, Prompt Engineering
+AWS (Lambda, EC2, S3, RDS, API Gateway, IAM)  
+Docker  
+Infrastructure automation  
+CI/CD pipelines  
 
-**Microservices & APIs**
-FastAPI, .NET Core APIs, RESTful architecture
-API versioning, Auth integration, Gateway routing
+**Artificial Intelligence**
 
-**Full Stack & Backend Development**
-.NET (C#, ASP.NET Core), Python, JavaScript
-PostgreSQL, MySQL, SQLAlchemy, HTML/CSS/JS frontend integration
+Large language model integrations  
+OpenAI APIs  
+Prompt engineering  
+Natural language processing  
 
-**Security & Networking**
-IAM, Encryption, Network ACLs, Cloud Security Best Practices
+**Databases**
 
----
-
-## Achievements & Certifications
-
-* DXC Champ Award – for excellence in automation and backend development
-* Academic Excellence – 4.0 GPA (Fall 2024), Florida Atlantic University
-* Innovator of the Year – ViBha - Bharatiya Vijnana Mandali, 2019
-
-**Certifications**
-
-* AWS Cloud Practitioner Essentials – Udemy
-* Full Stack Web Development – Udemy
-* Introduction to Databases & SQL Querying – Udemy
-* Ethical Hacking & Cybersecurity – Udemy
+PostgreSQL  
+MySQL  
+SQLAlchemy  
 
 ---
 
-## Let's Connect
+## Achievements
 
-I'm actively looking for full-time roles in Cloud, DevOps, or AI-driven backend engineering. If you're working on innovative problems or need a solution-oriented engineer with strong cloud and AI skills, feel free to connect.
+DXC Champ Award — recognized for contributions to software development and infrastructure automation  
 
-Email: [gdkalyan2109@gmail.com](mailto:gdkalyan2109@gmail.com)
-LinkedIn: [linkedin.com/in/durgakalyan](https://www.linkedin.com/in/durgakalyan)
-Portfolio: [durgakalyan.com](https://www.durgakalyan.com)
-GitHub: [github.com/vulkanCommand](https://github.com/vulkanCommand)
+Academic Excellence — 4.0 GPA (Fall 2024), Florida Atlantic University  
 
-"Let’s build something meaningful together – I bring code, clarity, and creativity."
+Innovator of the Year — ViBha Bharatiya Vijnana Mandali (2019)
+
+---
+
+## Certifications
+
+AWS Cloud Practitioner Essentials  
+
+Full Stack Web Development  
+
+Introduction to Databases and SQL Querying  
+
+Ethical Hacking and Cybersecurity
+
+---
+
+## Connect
+
+If you're working on interesting problems around **AI systems, cloud platforms, or developer tools**, I’m always happy to connect.
+
+📧 gdkalyan2109@gmail.com  
+🔗 https://linkedin.com/in/durgakalyan  
+🌐 https://durgakalyan.com  
+💻 https://github.com/vulkanCommand
