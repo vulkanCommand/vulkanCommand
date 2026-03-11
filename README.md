@@ -152,6 +152,10 @@ AI analytics platform that converts **natural language questions into SQL insigh
 
 # 📊 GitHub Stats
 
+## Contribution Snake
+
+![snake gif](https://github.com/vulkanCommand/vulkanCommand/blob/output/github-contribution-grid-snake.svg)
+
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight" />
