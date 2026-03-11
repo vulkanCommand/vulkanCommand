@@ -155,7 +155,7 @@ Serverless document intelligence system using **AWS Bedrock, Lambda, and API Gat
 <p align="center">
 
 <a href="https://www.fsf.org/" target="_blank">
-  <img src="assets/fsf.png" width="220"/>
+  <img src="assets/fsf.png">
 </a>
 
 <br>
