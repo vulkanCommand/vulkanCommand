@@ -1,233 +1,167 @@
-# Durga Kalyan Gandiboyina
+<!-- Header -->
 
-**AI Engineer • Cloud Architect • Systems Builder**
+<h1 align="center">Hi, I'm Durga Kalyan 👋</h1>
 
-📍 Boca Raton, Florida  
-📧 gdkalyan2109@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/durgakalyan  
-🌐 Portfolio: https://durgakalyan.com  
-💻 GitHub: https://github.com/vulkanCommand
+<p align="center">
+Engineer who enjoys turning curious ideas into real systems.
+</p>
 
 ---
 
-## About Me
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I’ve always been the kind of person who learns by building.
+<pre>
+####################################################################################################
+####################################################################################################
+####################################################################################################
+####################################################################################################
+#########################################+==*####*=+################################################
+#####################################*--::--:-*###+-:===+###########################################
+##################################*-:::::::::-=---::--:::--+########################################
+################################+::::::::::::::::::::::::::::=*#####################################
+#############################+::::::::-:::::::::::::::::::::::--*###################################
+###########################*=:-:::::::::::::::::::::::::::::::-=-+##################################
+########################+::::::::::::::::::::::::::::::::::::::::-##################################
+######################+::::::::::::::::::::::::::::::::::::::::::::-+###############################
+#####################-::-:::::::::::::::::::::::::::::::::::::::::-::-##############################
+####################+-::::::::::::::::::::::::::::::::::::::::::::::-:+#############################
+####################+---::::::::::::::::::::::::::::::::::::::::::-=-:=#############################
+####################::-:::::::::::::----:::--------:::::::::::::-=-+**##############################
+###################*::-::::::::::::::------=======-------:::::::-++#################################
+####################-:-:::::::::-===+=-==+++++++===-----=-::::::-*##################################
+####################=::-:--::::-=+-+#***++++++++=====----==:::::+###################################
+####################=-:-:-::::-==*++**#*++*+++++++=-::::::-=-:::+###################################
+###################*--:::--:::-+*+####*##*#****+---:-==----=+:::*###################################
+####################=-::-::-:--=++===-::-=+##++=--::-=-----=++:-####################################
+#####################-------=**#===++++++*#%@*==-::::::-----=*=--+##################################
+#####################*=:---:+%#**%%**+=--=##%#+=---:::----====*==-##################################
+#######################*----+%%###*===-===*###*+==-----=======++=-##################################
+########################*---=%%##**#%#+++*#####*+==-======++===+-=##################################
+#########################*---%%####*******##*###*+====--=======+==##################################
+#########################+%*=#%%%%%%%#####%%@@@@#+=:------=====++*##################################
+#########################+%##+%%%@@@@@%#+*%%%%%%*==--::::::--=-=+###################################
+#########################=*%**%%%%@@@@%+=#%*=-----=----:::::-=-=####################################
+#########################*+=+%*%%%%%%%%+-=+*###+++*++++-:::----+####################################
+##########################**#**%%%%##%#=-+-#%@@@@@@@#+=-------=#####################################
+##############################%%%%%%%%%+===+%%#*++++======----+#####################################
+#############################%%%@@@%%%%%##%%%@@@%*+++=====---+%#####################################
+#################################%@%%%%%%%%@@@@%#*++======--*%######################################
+##################################@@%%%%%%%%@@%%%#**++===--=+=+#####################################
+##################################%@%##%%%%%%%%%##*+++=-----==+-+###################################
+##################################-%%%#***######**+===-----====-::=*################################
+#################################::=#%%%%#*+++++===-------=====-::::-::::-+*########################
+###############################*--::*#%%%%%%##***++++==---------:::::::::::::::::=+#################
+##############################=---::-#%%%%%%%%%####**+=---------::::::::::::::::::::::--====########
+#############################=::---::-#%%%%%%%##%##**+==--=-----:::::::::::::::::::::::::::::=######
+###########################*-:::---:::-#%%%%#######**++==-------:::::::::::::--:::::::::::::::-*####
+#########################*-::::::---::::=#%%########*++==-------:::::-::::::::::::::::::::::::::=###
+#######################+-::::::::----::::-=*#######**++==---------:::::::::::::::::::::::::::::::-##
+####################+=:::::::::::::--::::::-==+++++++++==-------:+::::-:::::::::::::::::::::::::---+
+#################*=--:::::::::::::::--:::::----========--=======#-:::-:::::::::::::::::::::::::::---
+##############*=-:::::::::::::::::::---::::--------=-----======%=--:--::::::::::::::::::::::::::::--
+###########*=::::::::::::::::::::::::---::::-%*+===---=======+%*==::-:::::::::::::::::::::::::::::--
+#########+:::::::::::::::::::::::::::----:::::###%%@%#****%@@%#*=--::::::::::::::::::::::::::::::::-
+#######=-::-::::::::::::::::::::::::-----:::::--+%#####%%@@@%%%+-=-::::::::::::::::::::::::::::::::-
+#####=-:-::::::::::::::::::::::::::::--::::::-:--=%%%%%%%@@@%%*=-=-::::::::::::::::::::::::::::::::-
+##+--:-::::-:::::::::::::::::::::::::::::::::::----########%%#+-==-::::::::::::::::::::::::::::::::-
+#=--:::::-:----:::::::::::::::::::::::::::::::::---:+##%#%%%%*====:::::::::::::::::::::::::::::::::-
+#=---::-:-::-----::::::::::::::::::::::::::::::::----:*#%%%%#*===-:::::::::::::::::::::::::::::::::-
+#=-:--:::--::-::-::::::::::::::::::::::::::::::::------%%%%%#+====::::::::::::::::::::::::::::::::::
 
-Most of my ideas don’t start as polished plans. They start as small experiments. A script to automate something annoying. A backend service to test a concept. A late-night curiosity about how an AI model might behave if it was connected to a real workflow. Over time, many of those experiments grow into full systems.
+</pre>
 
-My engineering journey began with full stack development, but I slowly found myself drawn deeper into the layers behind the product. I became more interested in the infrastructure, the APIs, the automation, and the intelligent systems that make applications actually work at scale.
+</td>
 
-Today I spend most of my time building things that combine **AI, backend systems, and cloud infrastructure**.
+<td width="50%" valign="top">
 
-Sometimes that looks like an automation platform like **xCommand Cloud**, where users can launch their own workflow environments instantly. Sometimes it becomes something more human-focused like **Gentle Path**, a platform designed to support people through a structured healing journey. And sometimes it's simply experimenting with ideas like **Lakshmi**, an AI assistant that explores what personal AI interaction could look like in everyday life.
+### My Story
 
-What excites me most is the moment when a rough idea turns into something real. When code, infrastructure, and design come together and the system finally works.
+I didn't become an engineer by following a straight path.
 
-Right now I’m working as an **AI Research Intern**, where I explore practical ways large language models and automation can help organizations operate more efficiently. A big part of my work involves connecting AI capabilities with real workflows so that technology actually reduces friction instead of adding complexity.
+Most of what I know came from curiosity and from building things just to see if they would work.
 
-At the end of the day, I see myself as a builder.
+I started with full stack development, building interfaces and connecting APIs. Over time I became more interested in the systems behind the scenes — backend architecture, cloud infrastructure, automation, and intelligent software.
 
-Someone who enjoys turning curiosity into working systems.
+Many of my projects begin with a simple question.
+
+What if automation could launch entire workflow environments instantly?  
+That idea became **xCommand Cloud**.
+
+What if a digital platform could guide someone through a thoughtful healing journey?  
+That became **Gentle Path**.
+
+What if AI assistants could feel more contextual and personal?  
+That experiment became **Lakshmi**.
+
+Today I work as an **AI Research Intern**, exploring how large language models and automation can help organizations operate more efficiently.
+
+At the core, I enjoy turning small ideas into real systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I Work On
+# 🧰 Tech Stack
 
-* AI systems and LLM integrations  
-* Cloud infrastructure and DevOps automation  
-* Backend and microservices architecture  
-* Intelligent workflow automation  
-* Developer platforms and SaaS products  
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Technologies I often work with include **Python, FastAPI, C#, Docker, AWS, PostgreSQL, OpenAI APIs, and modern cloud deployment stacks**.
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
----
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Experience
+### Databases
+![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### AI Researcher Intern  
-**Help Us Grow Reading Program**  
-*Nov 2025 – Present | Remote, USA*
-
-I work on AI driven automations that help simplify internal operations and reduce manual effort across the organization.
-
-Highlights:
-
-* Designed and implemented automations for HR and internal workflows, including document processing, data handling, and operational task flows
-* Researched and applied generative AI and NLP techniques to analyze organizational data, summarize content, and turn unstructured information into something teams can use
-* Worked closely with stakeholders to understand practical needs and translate them into working automation solutions
-
-### Full Stack Software Engineer  
-**DXC Technology | Progressive Insurance**  
-*Jun 2022 – Aug 2023 | Remote, USA / Bengaluru, India*
-
-At DXC, I worked on enterprise web applications and backend systems, focusing on reliability, maintainability, and production quality.
-
-Highlights:
-
-* Engineered and deployed ASP.NET applications and optimized MySQL backends across 3 production modules with strong regression coverage and zero post deployment errors
-* Investigated and resolved 500+ server side issues through deep analysis and code level troubleshooting
-* Collaborated with SRE teams on monitoring improvements and automation scripts to strengthen system reliability
-* Built practical solutions with a strong focus on end to end ownership and stability in production environments
+### AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge)
 
 ---
 
-## Projects
+# 🚀 Projects
 
 ### xCommand Cloud
-
-https://xcommand.cloud
-
-xCommand Cloud is a self hosted SaaS platform that lets users launch their own temporary n8n automation workspaces directly in the browser.
-
-The goal was to make automation more accessible. Instead of asking users to install and configure n8n locally, the platform gives them a ready to use workspace with automated provisioning, isolation, and expiry handling built in.
-
-Key features include:
-
-* On demand n8n workspace creation
-* Time based rental model with 1 day and 5 day plans
-* Workspace isolation using Docker
-* Reverse proxy routing with Traefik
-* Automated cleanup and lifecycle management
-* Stripe based payment flow
-* Monitoring with Prometheus and Grafana
-* Production deployment on VPS infrastructure with DevOps oriented setup
-
-This project brought together backend APIs, infrastructure orchestration, billing logic, monitoring, and polished UI design into one working platform.
-
----
+Platform that launches temporary **n8n automation workspaces instantly in the browser**.
 
 ### Gentle Path
-
-https://gentlepath.trenith.com
-
-Gentle Path is a healing focused web application designed to support people through a structured 90 day personal recovery journey.
-
-The platform is centered around clarity, reflection, and consistency. I wanted it to feel calm, intentional, and supportive rather than overwhelming. The product combines thoughtful user experience with guided digital support.
-
-Key features include:
-
-* Structured 90 day healing journey
-* Guided reflections and progress based milestones
-* Supportive AI powered interactions
-* Simple and calming product design
-* Focus on emotional clarity, routine, and self guided growth
-
-Gentle Path is one of the projects where product purpose mattered just as much as the engineering.
-
----
+A structured **90-day healing platform** designed to help people move through emotional recovery.
 
 ### Lakshmi
-
-Lakshmi is an experimental AI personal assistant built to explore how a more contextual and interactive personal AI system could work in a home environment.
-
-It runs on Raspberry Pi and combines voice interaction, AI responses, and memory based behavior.
-
-Features include:
-
-* Voice interaction and wake word detection
-* AI powered question answering
-* Voice responses using text to speech
-* Personal reminders and interaction history
-* Web interface for monitoring and control
-
-GitHub: https://github.com/vulkanCommand/Lakshmi
-
----
+An experimental **AI personal assistant** exploring contextual AI interaction.
 
 ### RooflyticsAI
-
-RooflyticsAI is an AI powered business analytics platform designed to help users query sales and CRM data using natural language.
-
-Instead of writing SQL manually, users can ask business questions in plain English and receive useful insights from the system.
-
-Key capabilities include:
-
-* Natural language to SQL querying with GPT integration
-* FastAPI based backend architecture
-* PostgreSQL database integration
-* Dockerized microservices deployment
-* Cloud deployment using AWS App Runner
-
-GitHub: https://github.com/vulkanCommand/Rooflytics-AI
+AI analytics platform that converts **natural language questions into SQL insights**.
 
 ---
 
-### AI File Analyzer
+# 📊 GitHub Stats
 
-A serverless AI document analysis system built using AWS services.
+<p align="center">
 
-The application detects file types, extracts document content, and generates context aware summaries using AI. It was designed to handle document workflows efficiently while staying lightweight and scalable.
+<img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight" />
 
-Key points:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanCommand&layout=compact&theme=tokyonight" />
 
-* Built with AWS Lambda and API Gateway
-* Integrated Amazon Bedrock for document summarization
-* Improved processing efficiency significantly across 200+ test cases
-* Designed for unstructured file analysis including PDF and DOCX documents
-
-GitHub: https://github.com/vulkanCommand/AI-File-Analyzer
+</p>
 
 ---
 
-### SnapFile
+# 🌐 Connect
 
-SnapFile is a file monitoring and synchronization tool built for fast cloud based file updates.
-
-It watches local file changes and syncs them to AWS S3, while also offering a simple web interface for file access and management.
-
-GitHub: https://github.com/vulkanCommand/SnapFile
-
----
-
-## Technical Skills
-
-**AI and Automation**  
-OpenAI APIs, Claude, Gemini, Grok, AWS Bedrock, Generative AI, NLP, AI agents, Retrieval Augmented Generation, OpenAI Whisper, n8n, Zapier
-
-**Languages and Frameworks**  
-Python, C#, ASP.NET, Java, Angular, JavaScript
-
-**Frontend**  
-HTML5, CSS3, JavaScript, Single Page Applications
-
-**Backend and APIs**  
-FastAPI, Flask, REST APIs, Postman, Docker, Microservices
-
-**Cloud and DevOps**  
-AWS, Lambda, RDS, EC2, S3, App Runner, CloudWatch, API Gateway, IAM, Git, CI/CD Pipelines
-
-**Databases**  
-PostgreSQL, MySQL, DynamoDB, NoSQL systems, SQLAlchemy
-
----
-
-## Education
-
-### Union Commonwealth University  
-**Master of Science in Information Management Systems**  
-*Aug 2025 – Present*
-
-### Florida Atlantic University  
-**Master of Science in Computer and Information Sciences**  
-*Aug 2023 – May 2025*
-
----
-
-## Achievements
-
-* Academic Excellence Award from Florida Atlantic University for achieving a 4.0 GPA in Fall 2024
-* DXC Champ Award for exceptional performance and dedication in FY23 Q4
-* Best Innovator Award from ViBha India in 2019
-
----
-
-## Connect
-
-If you’re building something around AI systems, cloud platforms, developer tools, or practical automation, I’d be happy to connect.
-
-📧 gdkalyan2109@gmail.com  
-🔗 https://linkedin.com/in/durgakalyan  
-🌐 https://durgakalyan.com  
-💻 https://github.com/vulkanCommand
+Portfolio: https://durgakalyan.com  
+LinkedIn: https://linkedin.com/in/durgakalyan  
+Email: gdkalyan2109@gmail.com
