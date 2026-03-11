@@ -12,13 +12,23 @@
 
 ## About Me
 
-I enjoy building systems where AI, cloud infrastructure, and product thinking come together.
+I’ve always been the kind of person who learns by building.
 
-My career started in full stack development, and over time I moved deeper into backend engineering, automation, cloud architecture, and intelligent systems. What keeps me motivated is the process of taking an idea from a rough concept to a working product that people can actually use.
+Most of my ideas don’t start as polished plans. They start as small experiments. A script to automate something annoying. A backend service to test a concept. A late-night curiosity about how an AI model might behave if it was connected to a real workflow. Over time, many of those experiments grow into full systems.
 
-I like building practical things. Sometimes that means AI powered tools, sometimes it means backend services, and sometimes it means infrastructure that quietly keeps everything running. I’m especially interested in products that combine strong engineering with real user value.
+My engineering journey began with full stack development, but I slowly found myself drawn deeper into the layers behind the product. I became more interested in the infrastructure, the APIs, the automation, and the intelligent systems that make applications actually work at scale.
 
-Right now, I’m working as an AI Research Intern, exploring how large language models, NLP techniques, and workflow automation can solve real operational problems in a useful and grounded way.
+Today I spend most of my time building things that combine **AI, backend systems, and cloud infrastructure**.
+
+Sometimes that looks like an automation platform like **xCommand Cloud**, where users can launch their own workflow environments instantly. Sometimes it becomes something more human-focused like **Gentle Path**, a platform designed to support people through a structured healing journey. And sometimes it's simply experimenting with ideas like **Lakshmi**, an AI assistant that explores what personal AI interaction could look like in everyday life.
+
+What excites me most is the moment when a rough idea turns into something real. When code, infrastructure, and design come together and the system finally works.
+
+Right now I’m working as an **AI Research Intern**, where I explore practical ways large language models and automation can help organizations operate more efficiently. A big part of my work involves connecting AI capabilities with real workflows so that technology actually reduces friction instead of adding complexity.
+
+At the end of the day, I see myself as a builder.
+
+Someone who enjoys turning curiosity into working systems.
 
 ---
 
