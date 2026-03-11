@@ -150,10 +150,19 @@ Serverless document intelligence system using **AWS Bedrock, Lambda, and API Gat
 
 ---
 
-# 🌱 Community
+## 🌱 Community
 
-Student Member  
-**Free Software Foundation**
+<p align="center">
+
+<a href="https://www.fsf.org/" target="_blank">
+  <img src="assets/fsf.png" width="220"/>
+</a>
+
+<br>
+
+<b>Student Member — Free Software Foundation</b>
+
+</p>
 
 ---
 
