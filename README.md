@@ -160,7 +160,7 @@ Serverless document intelligence system using **AWS Bedrock, Lambda, and API Gat
 
 <br>
 
-<b>Student Member — Free Software Foundation</b>
+<b>Student Member - Free Software Foundation</b>
 
 </p>
 
