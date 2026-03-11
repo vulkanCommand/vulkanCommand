@@ -13,7 +13,7 @@ Engineer who enjoys turning curious ideas into real systems.
 
 <td width="34%" valign="top">
 
-<img src="assets/ascii.png" width="220" style="border-radius:8px;" />
+<img src="assets/ascii.png" style="width:100%; max-width:320px;" />
 
 </td>
 
