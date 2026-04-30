@@ -134,11 +134,11 @@ Serverless document intelligence system using **AWS Bedrock, Lambda, and API Gat
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=All-Time%20GitHub%20Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanCommand&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanCommand&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=All-Time%20Language%20Usage" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vulkanCommand&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com/?user=vulkanCommand&theme=tokyonight&starting_year=2024" />
 
 </p>
 
