@@ -1,178 +1,186 @@
-<!-- Header -->
-
-<h1 align="center">Hi, I'm Durga Kalyan 👋</h1>
+<!-- Profile README for vulkanCommand -->
 
 <p align="center">
-Engineer who enjoys turning curious ideas into real systems.
+  <img src="assets/ascii.png" width="360" alt="Durga Kalyan ASCII profile art" />
+</p>
+
+<h1 align="center">Durga Kalyan</h1>
+
+<p align="center">
+  <b>I build automation, AI systems, and cloud tools that turn rough ideas into working infrastructure.</b>
+</p>
+
+<p align="center">
+  <a href="https://durgakalyan.com">Portfolio</a> ·
+  <a href="https://linkedin.com/in/durgakalyan">LinkedIn</a> ·
+  <a href="mailto:gdkalyan2109@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=650&center=true&vCenter=true&width=720&lines=AI+Research+Intern;Backend+%2B+Cloud+Builder;Automation+systems+over+one-off+scripts;Curious+ideas+%E2%86%92+real+systems" alt="Typing animation with profile highlights" />
 </p>
 
 ---
+
+## Start Here
+
+I am interested in the space where **AI meets infrastructure**: assistants that understand context, automation platforms that create environments on demand, and cloud systems that make messy workflows feel simple.
+
+Most of my projects start with a question:
+
+| Question | Project Direction |
+| --- | --- |
+| What if workflow environments could launch instantly and disappear cleanly? | **xCommand Cloud / n8n rental infrastructure** |
+| What if natural language could become useful business data without a dashboard maze? | **RooflyticsAI** |
+| What if file analysis could feel serverless, fast, and cheap to operate? | **AI File Analyzer** |
+| What if personal AI assistants were more contextual and less generic? | **Lakshmi / OpenClaw experiments** |
+
+---
+
+## Explore My Work
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="34%" valign="top">
+### ⚡ Automation Infrastructure
 
-<img src="assets/ascii.png" style="width:100%; max-width:320px;" />
+**[xcommand-n8n-rental](https://github.com/vulkanCommand/xcommand-n8n-rental)**  
+Temporary workflow workspace platform for launching n8n-style environments.
 
-</td>
+Why it matters: this is the kind of system that needs routing, lifecycle control, isolation, and cleanup logic instead of just a UI.
 
-<td width="66%" valign="top">
-
-### My Story
-
-I didn’t become an engineer by following a straight path.
-
-Most of what I know came from curiosity and from building things just to see if they would work.
-
-I started with full stack development, building interfaces and connecting APIs. Over time I became more interested in the systems behind the scenes - backend architecture, cloud infrastructure, automation, and intelligent software.
-
-Many of my projects begin with a simple question.
-
-What if automation could launch entire workflow environments instantly?  
-That idea became **xCommand Cloud**.
-
-What if a digital platform could guide someone through a thoughtful healing journey?  
-That became **Gentle Path**.
-
-What if AI assistants could feel more contextual and personal?  
-That experiment became **Lakshmi**.
-
-Today I work as an **AI Research Intern**, exploring how large language models and automation can help organizations operate more efficiently.
-
-At the core, I enjoy turning small ideas into real systems.
+Related focus: `Docker`, `Traefik`, `FastAPI`, `workflow automation`
 
 </td>
+<td width="50%" valign="top">
 
+### 🧠 AI Data Systems
+
+**[RooflyticsAI](https://github.com/vulkanCommand/Rooflytics-AI)**  
+Natural-language analytics system that turns business questions into SQL-backed answers.
+
+Why it matters: the interesting problem is not just calling an LLM. It is making the answer useful, traceable, and connected to real data.
+
+Related focus: `PostgreSQL`, `AWS`, `API Gateway`, `Lambda`, `LLM APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Serverless Intelligence
+
+**[AI-File-Analyzer](https://github.com/vulkanCommand/AI-File-Analyzer)**  
+File analysis app for uploading PDFs and generating AI summaries.
+
+Why it matters: document intelligence is only valuable when the pipeline is practical: upload, process, summarize, return.
+
+Related focus: `Python`, `AWS Bedrock`, `Lambda`, `API Gateway`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Developer Tools
+
+**[env-guardian](https://github.com/vulkanCommand/env-guardian)**  
+Go-based developer tooling experiment.
+
+Why it matters: I like building small tools that protect the boring-but-dangerous edges of development workflows.
+
+Related focus: `Go`, `CLI tools`, `developer safety`, `automation`
+
+</td>
 </tr>
 </table>
 
----
+<details>
+<summary><b>More experiments worth opening</b></summary>
 
-# 🧰 Tech Stack
+- **[openclaw](https://github.com/vulkanCommand/openclaw)** - personal AI assistant experiment across operating systems and platforms.
+- **[gentle-path-main](https://github.com/vulkanCommand/gentle-path-main)** - structured 90-day healing platform concept.
+- **[aws-devops-portfolio](https://github.com/vulkanCommand/aws-devops-portfolio)** - hands-on AWS and DevOps lifecycle practice.
+- **[SnapFile](https://github.com/vulkanCommand/SnapFile)** - AWS cloud file sharing project.
 
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+</details>
 
 ---
 
-## Backend & APIs
+## How I Think
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![Gin](https://img.shields.io/badge/Gin_Framework-00ADD8?style=for-the-badge)
-![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+```mermaid
+flowchart LR
+    A["Curious question"] --> B["Small prototype"]
+    B --> C["Working system"]
+    C --> D["Automation layer"]
+    D --> E["Cleaner user experience"]
+    E --> F["Lessons for the next build"]
+```
 
----
-
-## AI / LLM / Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-black?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=for-the-badge)
-![VectorDB](https://img.shields.io/badge/Vector%20DB-AI-blue?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge)
+I am not trying to collect technologies. I am trying to build systems that survive contact with real users, real data, and real deployment constraints.
 
 ---
 
-## Cloud & DevOps
+## Stack I Actually Reach For
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge)
-
----
-
-## Databases
-
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge)
+| Area | Tools |
+| --- | --- |
+| Backend | Python, FastAPI, ASP.NET, Go, REST APIs |
+| AI / LLM | OpenAI, Claude, Gemini, RAG, vector databases, AWS Bedrock |
+| Cloud / DevOps | AWS, GCP, Docker, Traefik, Prometheus, Grafana |
+| Data | PostgreSQL, MySQL, DynamoDB |
+| Systems | Linux, Bash, automation-first workflows |
+| Frontend | JavaScript, TypeScript, HTML, CSS |
 
 ---
 
-## Systems
+## Current Focus
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
-
----
-
-# 🚀 Projects
-
-### xCommand Cloud
-Automation platform that launches **temporary n8n workspaces instantly** using Docker, FastAPI, and Traefik.
-
-### Gentle Path
-A structured **90-day healing platform** helping users move through emotional recovery.
-
-### Lakshmi
-Experimental **AI personal assistant** exploring contextual AI interaction.
-
-### RooflyticsAI
-AI analytics system that converts **natural language questions into SQL insights**.
-
-### AI File Analyzer
-Serverless document intelligence system using **AWS Bedrock, Lambda, and API Gateway**.
+- Building more practical AI assistants that understand context and user intent.
+- Turning automation ideas into deployable infrastructure, not just demos.
+- Improving backend architecture, cloud operations, and observability.
+- Learning in public through projects, experiments, and sharp iteration.
 
 ---
 
-# 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=All-Time%20GitHub%20Stats" alt="All-time GitHub stats for vulkanCommand" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=All-Time%20GitHub%20Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanCommand&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=All-Time%20Language%20Usage" alt="All-time language usage for vulkanCommand" />
+  <img src="https://streak-stats.demolab.com/?user=vulkanCommand&theme=tokyonight&starting_year=2024" alt="GitHub contribution streak stats for vulkanCommand" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanCommand&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=All-Time%20Language%20Usage" />
-
-<img src="https://streak-stats.demolab.com/?user=vulkanCommand&theme=tokyonight&starting_year=2024" />
-
+<p align="center">
+  <img src="https://github.com/vulkanCommand/vulkanCommand/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity animation" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/vulkanCommand/vulkanCommand/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌱 Community
+## Values
 
 <p align="center">
+  <a href="https://www.fsf.org/" target="_blank">
+    <img src="assets/fsf.png" width="180" alt="Free Software Foundation" />
+  </a>
+</p>
 
-<a href="https://www.fsf.org/" target="_blank">
-  <img src="assets/fsf.png">
-</a>
-
-<br>
-
-<b>Student Member - Free Software Foundation</b>
-
+<p align="center">
+  <b>Student Member - Free Software Foundation</b><br />
+  I care about software that people can inspect, learn from, adapt, and actually understand.
 </p>
 
 ---
 
-# 🌐 Connect
+## Connect
 
-Portfolio  
-https://durgakalyan.com  
+If you are exploring automation, AI systems, cloud infrastructure, or strange ideas that might become real tools, I am always happy to talk.
 
-LinkedIn  
-https://linkedin.com/in/durgakalyan  
-
-Email  
-gdkalyan2109@gmail.com
+<p align="center">
+  <a href="https://durgakalyan.com"><b>Portfolio</b></a> ·
+  <a href="https://linkedin.com/in/durgakalyan"><b>LinkedIn</b></a> ·
+  <a href="mailto:gdkalyan2109@gmail.com"><b>Email</b></a>
+</p>
