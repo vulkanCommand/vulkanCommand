@@ -117,7 +117,7 @@ flowchart LR
     E --> F["Lessons for the next build"]
 ```
 
-I am not trying to collect technologies. I am trying to build systems that survive contact with real users, real data, and real deployment constraints.
+I am not trying to stack technologies. I am trying to build systems that survive contact with real users, real data, and real deployment constraints.
 
 ---
 
