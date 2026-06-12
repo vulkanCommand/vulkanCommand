@@ -177,7 +177,24 @@ I am not trying to stack technologies. I am trying to build systems that survive
 
 ## GitHub Activity
 
-These cards are configured for all-time profile totals where the widget supports it. I avoid year-scoped streak and summary cards here because they can make the profile look like it only represents the current year.
+<p align="center">
+  <img src="assets/command-center.svg" alt="Cinematic command center showing contributions, commits, repositories, pull requests, and estimated build hours" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2024-1%20public%20contribution-F6D365?style=for-the-badge&labelColor=111827" alt="2024 public GitHub contributions" />
+  <img src="https://img.shields.io/badge/2025-233%20public%20contributions-C084FC?style=for-the-badge&labelColor=111827" alt="2025 public GitHub contributions" />
+  <img src="https://img.shields.io/badge/2026-525%20public%20contributions-5EEAD4?style=for-the-badge&labelColor=111827" alt="2026 public GitHub contributions" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Build%20Time-1000%2B%20estimated%20hours-38BDF8?style=for-the-badge&labelColor=111827" alt="Estimated application build hours" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%2B%20Cloud%20%2B%20AI-8B5CF6?style=for-the-badge&labelColor=111827" alt="Mobile, cloud, and AI focus areas" />
+</p>
+
+The contribution counts above are public GitHub calendar totals checked for 2024, 2025, and 2026. The build-hour number is an estimate for portfolio storytelling, not a GitHub-tracked metric.
+
+These live cards are configured for all-time profile totals where the widget supports it.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=false&custom_title=All-Time%20GitHub%20Stats" alt="All-time GitHub stats for vulkanCommand" />
