@@ -7,100 +7,130 @@
 <h1 align="center">Durga Kalyan</h1>
 
 <p align="center">
-  <b>I build automation, AI systems, and cloud tools that turn rough ideas into working infrastructure.</b>
+  <b>I build AI systems, automation platforms, mobile apps, and cloud tools that turn rough ideas into working products.</b>
 </p>
 
 <p align="center">
-  <a href="https://durgakalyan.com">Portfolio</a> ·
-  <a href="https://linkedin.com/in/durgakalyan">LinkedIn</a> ·
+  <a href="https://durgakalyan.com">Portfolio</a> &middot;
+  <a href="https://linkedin.com/in/durgakalyan">LinkedIn</a> &middot;
   <a href="mailto:gdkalyan2109@gmail.com">Email</a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=650&center=true&vCenter=true&width=720&lines=AI+Research+Intern;Backend+%2B+Cloud+Builder;Automation+systems+over+one-off+scripts;Curious+ideas+%E2%86%92+real+systems" alt="Typing animation with profile highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=650&center=true&vCenter=true&width=720&lines=AI+Research+Intern;Backend+%2B+Cloud+Builder;Mobile+%2B+Automation+Builder;Curious+ideas+%E2%86%92+real+systems" alt="Typing animation with profile highlights" />
 </p>
 
 ---
 
 ## Start Here
 
-I am interested in the space where **AI meets infrastructure**: assistants that understand context, automation platforms that create environments on demand, and cloud systems that make messy workflows feel simple.
+I am interested in the space where **AI meets infrastructure**: assistants that understand context, automation platforms that create environments on demand, mobile products that make collaboration easier, and cloud systems that make messy workflows feel simple.
 
 Most of my projects start with a question:
 
 | Question | Project Direction |
 | --- | --- |
-| What if workflow environments could launch instantly and disappear cleanly? | **xCommand Cloud / n8n rental infrastructure** |
-| What if natural language could become useful business data without a dashboard maze? | **RooflyticsAI** |
-| What if file analysis could feel serverless, fast, and cheap to operate? | **AI File Analyzer** |
-| What if personal AI assistants were more contextual and less generic? | **Lakshmi / OpenClaw experiments** |
+| What if group trips could be planned together without spreadsheet chaos? | **Gotogether Trip Planner** |
+| What if temporary workflow environments could launch instantly and disappear cleanly? | **xcommand.cloud / n8n rental infrastructure** |
+| What if local development could catch risky `.env` mistakes before they ship? | **Env Guardian** |
+| What if a room, screen, or shared space could broadcast content with less friction? | **RoomCast** |
 
 ---
 
-## Explore My Work
+## Latest Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Automation Infrastructure
+### Gotogether Trip Planner
 
-**[xcommand-n8n-rental](https://github.com/vulkanCommand/xcommand-n8n-rental)**  
-Temporary workflow workspace platform for launching n8n-style environments.
+**[gotogether](https://github.com/vulkanCommand/gotogether)**  
+Collaborative trip-planning app focused on shared planning, invite flows, and practical group coordination.
 
-Why it matters: this is the kind of system that needs routing, lifecycle control, isolation, and cleanup logic instead of just a UI.
+Why it matters: travel planning gets hard when everyone has ideas, links, dates, and preferences scattered across chats. Gotogether is built around making that shared planning space feel simple.
 
-Related focus: `Docker`, `Traefik`, `FastAPI`, `workflow automation`
+Focus: `React Native`, `Go`, `PostgreSQL`, `GCP`, `collaboration UX`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 AI Data Systems
+### xcommand.cloud
 
-**[RooflyticsAI](https://github.com/vulkanCommand/Rooflytics-AI)**  
-Natural-language analytics system that turns business questions into SQL-backed answers.
+**[xcommand-n8n-rental](https://github.com/vulkanCommand/xcommand-n8n-rental)**  
+Temporary workflow workspace platform for launching n8n-style automation environments.
 
-Why it matters: the interesting problem is not just calling an LLM. It is making the answer useful, traceable, and connected to real data.
+Why it matters: this kind of system needs routing, lifecycle control, isolation, cleanup, and cloud operations instead of just a dashboard.
 
-Related focus: `PostgreSQL`, `AWS`, `API Gateway`, `Lambda`, `LLM APIs`
+Focus: `Docker`, `Traefik`, `FastAPI`, `workflow automation`, `cloud infrastructure`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Serverless Intelligence
+### Env Guardian
 
-**[AI-File-Analyzer](https://github.com/vulkanCommand/AI-File-Analyzer)**  
-File analysis app for uploading PDFs and generating AI summaries.
+**[env-guardian](https://github.com/vulkanCommand/env-guardian)**  
+Developer safety tooling for checking environment files and catching configuration risks earlier.
 
-Why it matters: document intelligence is only valuable when the pipeline is practical: upload, process, summarize, return.
+Why it matters: `.env` files sit right on the edge between useful automation and dangerous leaks. Small tools can protect the boring-but-critical parts of development.
 
-Related focus: `Python`, `AWS Bedrock`, `Lambda`, `API Gateway`
+Focus: `Go`, `CLI tools`, `developer safety`, `automation`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Developer Tools
+### RoomCast
 
-**[env-guardian](https://github.com/vulkanCommand/env-guardian)**  
-Go-based developer tooling experiment.
+**[RoomCast](https://github.com/vulkanCommand/RoomCast)**  
+Room-focused casting and sharing project for making content visible in a shared space.
 
-Why it matters: I like building small tools that protect the boring-but-dangerous edges of development workflows.
+Why it matters: shared screens and shared rooms should be easy to control, inspect, and coordinate without turning into a setup puzzle.
 
-Related focus: `Go`, `CLI tools`, `developer safety`, `automation`
+Focus: `real-time apps`, `media sharing`, `room-based UX`, `cloud-ready systems`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Other Work Worth Opening
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Data Systems
+
+**[RooflyticsAI](https://github.com/vulkanCommand/Rooflytics-AI)**  
+Natural-language analytics system that turns business questions into SQL-backed answers.
+
+Focus: `PostgreSQL`, `AWS`, `API Gateway`, `Lambda`, `LLM APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### Serverless Intelligence
+
+**[AI-File-Analyzer](https://github.com/vulkanCommand/AI-File-Analyzer)**  
+File analysis app for uploading PDFs and generating AI summaries.
+
+Focus: `Python`, `AWS Bedrock`, `Lambda`, `API Gateway`
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>More experiments worth opening</b></summary>
+<summary><b>More experiments</b></summary>
 
 - **[openclaw](https://github.com/vulkanCommand/openclaw)** - personal AI assistant experiment across operating systems and platforms.
 - **[gentle-path-main](https://github.com/vulkanCommand/gentle-path-main)** - structured 90-day healing platform concept.
 - **[aws-devops-portfolio](https://github.com/vulkanCommand/aws-devops-portfolio)** - hands-on AWS and DevOps lifecycle practice.
 - **[SnapFile](https://github.com/vulkanCommand/SnapFile)** - AWS cloud file sharing project.
+- **[site-assistant](https://github.com/vulkanCommand/site-assistant)** - assistant-style website experiment.
 
 </details>
 
@@ -126,6 +156,7 @@ I am not trying to stack technologies. I am trying to build systems that survive
 | Area | Tools |
 | --- | --- |
 | Backend | Python, FastAPI, ASP.NET, Go, REST APIs |
+| Mobile | React Native, Expo, deep links, app workflows |
 | AI / LLM | OpenAI, Claude, Gemini, RAG, vector databases, AWS Bedrock |
 | Cloud / DevOps | AWS, GCP, Docker, Traefik, Prometheus, Grafana |
 | Data | PostgreSQL, MySQL, DynamoDB |
@@ -136,8 +167,9 @@ I am not trying to stack technologies. I am trying to build systems that survive
 
 ## Current Focus
 
-- Building more practical AI assistants that understand context and user intent.
+- Building practical AI assistants that understand context and user intent.
 - Turning automation ideas into deployable infrastructure, not just demos.
+- Shipping collaborative mobile and web products with clear permission boundaries.
 - Improving backend architecture, cloud operations, and observability.
 - Learning in public through projects, experiments, and sharp iteration.
 
@@ -145,17 +177,19 @@ I am not trying to stack technologies. I am trying to build systems that survive
 
 ## GitHub Activity
 
+All widgets below are configured as broad all-time profile summaries. I avoid month/year scoped streak cards here because those can make the profile look broken or misleading when the service is rate-limited.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&custom_title=All-Time%20GitHub%20Stats" alt="All-time GitHub stats for vulkanCommand" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vulkanCommand&theme=tokyonight" alt="All-time GitHub contribution summary for vulkanCommand" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vulkanCommand&theme=tokyonight" alt="All-time GitHub stats for vulkanCommand" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vulkanCommand&theme=tokyonight" alt="All-time repositories by language for vulkanCommand" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanCommand&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=All-Time%20Language%20Usage" alt="All-time language usage for vulkanCommand" />
-  <img src="https://streak-stats.demolab.com/?user=vulkanCommand&theme=tokyonight&starting_year=2024" alt="GitHub contribution streak stats for vulkanCommand" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/vulkanCommand/vulkanCommand/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity animation" />
 </p>
 
 ---
@@ -180,7 +214,7 @@ I am not trying to stack technologies. I am trying to build systems that survive
 If you are exploring automation, AI systems, cloud infrastructure, or strange ideas that might become real tools, I am always happy to talk.
 
 <p align="center">
-  <a href="https://durgakalyan.com"><b>Portfolio</b></a> ·
-  <a href="https://linkedin.com/in/durgakalyan"><b>LinkedIn</b></a> ·
+  <a href="https://durgakalyan.com"><b>Portfolio</b></a> &middot;
+  <a href="https://linkedin.com/in/durgakalyan"><b>LinkedIn</b></a> &middot;
   <a href="mailto:gdkalyan2109@gmail.com"><b>Email</b></a>
 </p>
