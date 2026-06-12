@@ -177,19 +177,18 @@ I am not trying to stack technologies. I am trying to build systems that survive
 
 ## GitHub Activity
 
-All widgets below are configured as broad all-time profile summaries. I avoid month/year scoped streak cards here because those can make the profile look broken or misleading when the service is rate-limited.
+These cards are configured for all-time profile totals where the widget supports it. I avoid year-scoped streak and summary cards here because they can make the profile look like it only represents the current year.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vulkanCommand&theme=tokyonight" alt="All-time GitHub contribution summary for vulkanCommand" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vulkanCommand&theme=tokyonight" alt="All-time GitHub stats for vulkanCommand" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vulkanCommand&theme=tokyonight" alt="All-time repositories by language for vulkanCommand" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=false&custom_title=All-Time%20GitHub%20Stats" alt="All-time GitHub stats for vulkanCommand" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanCommand&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=All-Time%20Language%20Usage" alt="All-time language usage for vulkanCommand" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vulkanCommand&theme=tokyonight" alt="All-time repositories by language for vulkanCommand" />
 </p>
 
 ---
