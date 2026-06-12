@@ -83,39 +83,39 @@
   <g transform="translate(120 454)">
     <text x="0" y="0" class="mono tiny" fill="#93C5FD">CONTRIBUTIONS BY YEAR</text>
     <text x="0" y="46" class="sans label">2024</text>
-    <rect x="92" y="25" width="530" height="18" rx="9" fill="#1E293B"/>
-    <rect x="92" y="25" width="18" height="18" rx="9" fill="url(#gold)"/>
-    <text x="646" y="45" class="sans sub">1 contribution</text>
+    <rect x="92" y="25" width="445" height="18" rx="9" fill="#1E293B"/>
+    <rect x="92" y="25" width="16" height="18" rx="9" fill="url(#gold)"/>
+    <text x="560" y="45" class="sans sub">1 contribution</text>
 
     <text x="0" y="94" class="sans label">2025</text>
-    <rect x="92" y="73" width="530" height="18" rx="9" fill="#1E293B"/>
-    <rect x="92" y="73" width="235" height="18" rx="9" fill="url(#magenta)"/>
-    <text x="646" y="93" class="sans sub">233 contributions</text>
+    <rect x="92" y="73" width="445" height="18" rx="9" fill="#1E293B"/>
+    <rect x="92" y="73" width="198" height="18" rx="9" fill="url(#magenta)"/>
+    <text x="560" y="93" class="sans sub">233 contributions</text>
 
     <text x="0" y="142" class="sans label">2026</text>
-    <rect x="92" y="121" width="530" height="18" rx="9" fill="#1E293B"/>
-    <rect x="92" y="121" width="530" height="18" rx="9" fill="url(#cyan)"/>
-    <text x="646" y="141" class="sans sub">525 contributions</text>
+    <rect x="92" y="121" width="445" height="18" rx="9" fill="#1E293B"/>
+    <rect x="92" y="121" width="445" height="18" rx="9" fill="url(#cyan)"/>
+    <text x="560" y="141" class="sans sub">525 contributions</text>
   </g>
 
-  <g transform="translate(120 631)">
-    <rect width="178" height="48" rx="15" fill="#111827" stroke="#64748B" stroke-opacity="0.35"/>
-    <text x="20" y="31" class="sans" font-size="20" fill="#E2E8F0">15 public repos</text>
-    <rect x="198" width="132" height="48" rx="15" fill="#111827" stroke="#64748B" stroke-opacity="0.35"/>
-    <text x="218" y="31" class="sans" font-size="20" fill="#E2E8F0">16 PRs</text>
-    <rect x="350" width="172" height="48" rx="15" fill="#111827" stroke="#64748B" stroke-opacity="0.35"/>
-    <text x="370" y="31" class="sans" font-size="20" fill="#E2E8F0">4 flagship apps</text>
-    <rect x="542" width="210" height="48" rx="15" fill="#111827" stroke="#64748B" stroke-opacity="0.35"/>
-    <text x="562" y="31" class="sans" font-size="20" fill="#E2E8F0">AI + cloud systems</text>
+  <g transform="translate(120 632)">
+    <rect width="166" height="44" rx="14" fill="#111827" stroke="#64748B" stroke-opacity="0.35"/>
+    <text x="18" y="29" class="sans" font-size="18" fill="#E2E8F0">15 public repos</text>
+    <rect x="186" width="112" height="44" rx="14" fill="#111827" stroke="#64748B" stroke-opacity="0.35"/>
+    <text x="204" y="29" class="sans" font-size="18" fill="#E2E8F0">16 PRs</text>
+    <rect x="318" width="158" height="44" rx="14" fill="#111827" stroke="#64748B" stroke-opacity="0.35"/>
+    <text x="336" y="29" class="sans" font-size="18" fill="#E2E8F0">4 flagship apps</text>
+    <rect x="496" width="186" height="44" rx="14" fill="#111827" stroke="#64748B" stroke-opacity="0.35"/>
+    <text x="514" y="29" class="sans" font-size="18" fill="#E2E8F0">AI + cloud systems</text>
   </g>
 
-  <g transform="translate(812 450)">
-    <circle cx="108" cy="82" r="78" stroke="#1E293B" stroke-width="16"/>
-    <path d="M108 4A78 78 0 1 1 49 31" stroke="url(#cyan)" stroke-width="16" stroke-linecap="round"/>
-    <circle cx="108" cy="82" r="47" fill="#111827" stroke="#334155"/>
-    <text x="108" y="74" text-anchor="middle" class="sans" font-size="18" fill="#94A3B8">build mode</text>
-    <text x="108" y="112" text-anchor="middle" class="sans" font-size="34" font-weight="800" fill="#5EEAD4">ACTIVE</text>
-    <text x="20" y="196" class="sans caption">Estimated hours are a portfolio signal,</text>
-    <text x="20" y="222" class="sans caption">not a GitHub-measured metric.</text>
+  <g transform="translate(872 444)">
+    <circle cx="98" cy="82" r="72" stroke="#1E293B" stroke-width="14"/>
+    <path d="M98 10A72 72 0 1 1 44 35" stroke="url(#cyan)" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="98" cy="82" r="44" fill="#111827" stroke="#334155"/>
+    <text x="98" y="74" text-anchor="middle" class="sans" font-size="16" fill="#94A3B8">build mode</text>
+    <text x="98" y="108" text-anchor="middle" class="sans" font-size="30" font-weight="800" fill="#5EEAD4">ACTIVE</text>
+    <text x="0" y="186" class="sans caption">Estimated hours are a</text>
+    <text x="0" y="212" class="sans caption">portfolio signal.</text>
   </g>
 </svg>
