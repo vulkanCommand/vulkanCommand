@@ -7,11 +7,11 @@
 <h1 align="center">Durga Kalyan</h1>
 
 <p align="center">
-  <b>AI systems builder. Cloud automation engineer. Mobile app maker. Developer-tool experimenter.</b>
+  <b>AI systems builder. Cloud automation engineer. Mobile collaboration maker. Developer-tool operator.</b>
 </p>
 
 <p align="center">
-  I turn rough ideas into working products: trip planners, automation clouds, environment safety tools, real-time room experiences, and AI-backed data systems.
+  I build practical software from first principles: mobile apps, cloud automation platforms, AI-backed workflows, developer safety tools, and systems that survive real usage.
 </p>
 
 <p align="center">
@@ -27,15 +27,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=650&center=true&vCenter=true&width=820&lines=Building+AI+%2B+cloud+systems;Shipping+mobile+collaboration+tools;Designing+automation-first+infrastructure;Turning+curious+ideas+into+real+products" alt="Typing animation with profile highlights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=650&center=true&vCenter=true&width=860&lines=Building+AI+%2B+cloud+systems;Shipping+mobile+collaboration+products;Designing+automation-first+infrastructure;Turning+rough+ideas+into+working+software" alt="Typing animation with profile highlights" />
 </p>
 
 ---
 
-## Build Dashboard
+## Command Center
 
 <p align="center">
-  <img src="assets/command-center.svg" alt="Cinematic command center showing contributions, commits, repositories, pull requests, and estimated build hours" />
+  <img src="assets/command-center.svg" alt="Professional command center showing all-time GitHub signal, yearly public contributions, public repositories, pull requests, and estimated build hours" />
 </p>
 
 <p align="center">
@@ -45,11 +45,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build%20Time-1000%2B%20estimated%20hours-38BDF8?style=for-the-badge&labelColor=111827" alt="Estimated application build hours" />
-  <img src="https://img.shields.io/badge/Current%20Mode-Mobile%20%2B%20Cloud%20%2B%20AI-8B5CF6?style=for-the-badge&labelColor=111827" alt="Mobile, cloud, and AI focus areas" />
+  <img src="https://img.shields.io/badge/Public%20Signal-759%20contributions%20since%202024-38BDF8?style=for-the-badge&labelColor=111827" alt="Public GitHub contribution signal since 2024" />
+  <img src="https://img.shields.io/badge/Build%20Time-1000%2B%20estimated%20hours-8B5CF6?style=for-the-badge&labelColor=111827" alt="Estimated application build hours" />
 </p>
 
-The contribution counts above are public GitHub calendar totals checked for 2024, 2025, and 2026. Build hours are an honest portfolio estimate, not a GitHub-tracked metric.
+Public contribution counts are calendar totals checked for 2024, 2025, and 2026. Estimated build hours are a portfolio signal based on shipped application work, not a GitHub-measured metric.
 
 ---
 
@@ -62,9 +62,9 @@ The contribution counts above are public GitHub calendar totals checked for 2024
 ### Gotogether Trip Planner
 
 **[github.com/vulkanCommand/gotogether](https://github.com/vulkanCommand/gotogether)**  
-Collaborative trip-planning app for shared itineraries, invite flows, and group coordination.
+Collaborative trip-planning product for shared itineraries, invite links, group access, and coordinated travel decisions.
 
-**Why it matters:** planning trips usually becomes scattered across chats, links, and opinions. Gotogether turns that chaos into one shared product surface.
+**Signal:** mobile collaboration, backend access control, deep links, production-minded workflows.
 
 `React Native` `Go` `PostgreSQL` `GCP` `Deep links`
 
@@ -74,11 +74,11 @@ Collaborative trip-planning app for shared itineraries, invite flows, and group 
 ### xcommand.cloud
 
 **[github.com/vulkanCommand/xcommand-n8n-rental](https://github.com/vulkanCommand/xcommand-n8n-rental)**  
-Temporary workflow workspace infrastructure for launching automation environments on demand.
+Cloud workspace infrastructure for launching temporary automation environments with routing, isolation, lifecycle control, and cleanup.
 
-**Why it matters:** real automation platforms need routing, lifecycle control, isolation, cleanup, and deployment discipline.
+**Signal:** real deployment discipline behind automation platforms, not just UI demos.
 
-`Docker` `Traefik` `FastAPI` `Cloud automation` `n8n-style workflows`
+`Docker` `Traefik` `FastAPI` `Cloud automation` `Workflow infrastructure`
 
 </td>
 </tr>
@@ -88,9 +88,9 @@ Temporary workflow workspace infrastructure for launching automation environment
 ### Env Guardian
 
 **[github.com/vulkanCommand/env-guardian](https://github.com/vulkanCommand/env-guardian)**  
-Developer safety tooling for checking environment files and catching risky configuration patterns.
+Developer safety tooling for inspecting environment files and catching risky configuration patterns before they become leaks.
 
-**Why it matters:** `.env` files sit right on the edge between productive automation and dangerous leaks. Small tools can protect high-risk development habits.
+**Signal:** practical security hygiene for local development and automation-heavy projects.
 
 `Go` `CLI tools` `Security hygiene` `Developer experience`
 
@@ -100,9 +100,9 @@ Developer safety tooling for checking environment files and catching risky confi
 ### RoomCast
 
 **[github.com/vulkanCommand/RoomCast](https://github.com/vulkanCommand/RoomCast)**  
-Room-focused casting and sharing project for making content visible in a shared space.
+Room-focused casting and sharing experience for making content visible, controlled, and coordinated in shared spaces.
 
-**Why it matters:** shared rooms and shared screens should feel easy to control, inspect, and coordinate.
+**Signal:** realtime UX thinking, media workflows, and shared-screen product surfaces.
 
 `Real-time UX` `Media sharing` `Room-based workflows` `Cloud-ready apps`
 
@@ -114,12 +114,12 @@ Room-focused casting and sharing project for making content visible in a shared 
 
 ## Engineering Lanes
 
-| Lane | What I Build | Projects |
+| Lane | What I Build | Representative Work |
 | --- | --- | --- |
-| Mobile collaboration | Apps where multiple people create, edit, invite, and coordinate together | Gotogether, RoomCast |
-| Automation infrastructure | Systems that spin up useful environments and manage lifecycle details | xcommand.cloud |
-| AI data systems | LLM-backed interfaces connected to real data and practical workflows | RooflyticsAI, AI File Analyzer |
-| Developer safety | Tools that protect setup, secrets, workflow edges, and local operations | Env Guardian |
+| Mobile collaboration | Multi-user apps with invites, roles, shared state, and real workflows | Gotogether, RoomCast |
+| Automation infrastructure | Systems that launch, route, monitor, and clean up useful environments | xcommand.cloud |
+| AI data systems | Interfaces that connect LLMs to documents, databases, and operational questions | RooflyticsAI, AI File Analyzer |
+| Developer safety | Tools that protect secrets, setup, permissions, and deployment edges | Env Guardian |
 
 ---
 
@@ -136,12 +136,12 @@ Room-focused casting and sharing project for making content visible in a shared 
 | AI / LLM | OpenAI, Claude, Gemini, RAG, vector databases, AWS Bedrock |
 | Cloud / DevOps | AWS, GCP, Docker, Traefik, Prometheus, Grafana |
 | Data | PostgreSQL, MySQL, DynamoDB |
-| Systems | Linux, Bash, automation-first workflows |
+| Systems | Linux, Bash, GitHub Actions, automation-first workflows |
 | Frontend | TypeScript, React, HTML, CSS |
 
 ---
 
-## More Work
+## Additional Work
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ Natural-language analytics system that turns business questions into SQL-backed 
 <td width="50%" valign="top">
 
 **[AI-File-Analyzer](https://github.com/vulkanCommand/AI-File-Analyzer)**  
-Serverless-style file analysis app for uploading PDFs and generating AI summaries.
+File analysis app for uploading PDFs and generating AI summaries through cloud functions.
 
 `Python` `AWS Bedrock` `Lambda` `Document intelligence`
 
@@ -166,7 +166,7 @@ Serverless-style file analysis app for uploading PDFs and generating AI summarie
 <td width="50%" valign="top">
 
 **[openclaw](https://github.com/vulkanCommand/openclaw)**  
-Personal AI assistant experiment across operating systems and platforms.
+Personal AI assistant experiment across operating systems and local workflows.
 
 `AI assistant` `Local workflows` `Cross-platform experiments`
 
@@ -184,7 +184,7 @@ Hands-on AWS and DevOps lifecycle practice with infrastructure, deployment, and 
 
 ---
 
-## GitHub Signal
+## All-Time GitHub Signal
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vulkanCommand&show_icons=true&theme=tokyonight&include_all_commits=true&hide_rank=false&custom_title=All-Time%20GitHub%20Stats" alt="All-time GitHub stats for vulkanCommand" />
@@ -198,15 +198,17 @@ Hands-on AWS and DevOps lifecycle practice with infrastructure, deployment, and 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vulkanCommand&theme=tokyonight" alt="All-time repositories by language for vulkanCommand" />
 </p>
 
+Hosted stats cards can be cached by their providers. The command-center totals above are written explicitly so the profile still reads clearly when external cards refresh slowly.
+
 ---
 
-## Principles
+## Operating Principles
 
-- Build the smallest useful system, then harden the parts that matter.
-- Prefer real workflows over demo-only screens.
+- Ship working systems, then harden the parts that carry real risk.
 - Treat permissions, secrets, cleanup, and observability as product features.
-- Keep learning in public through shipped experiments.
-- Care about software people can inspect, adapt, and understand.
+- Prefer useful workflows over impressive-looking demos.
+- Build in public when the learning itself can help the next project.
+- Keep software inspectable, adaptable, and grounded in the user problem.
 
 <p align="center">
   <a href="https://www.fsf.org/" target="_blank">
@@ -222,7 +224,7 @@ Hands-on AWS and DevOps lifecycle practice with infrastructure, deployment, and 
 
 ## Connect
 
-If you are building around automation, AI systems, cloud infrastructure, mobile collaboration, or a strange idea that deserves to become real, I am happy to talk.
+I am interested in automation platforms, AI systems, cloud infrastructure, mobile collaboration, and product ideas that deserve to become real software.
 
 <p align="center">
   <a href="https://durgakalyan.com"><b>Portfolio</b></a> &middot;
