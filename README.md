@@ -49,6 +49,12 @@
   <img src="https://img.shields.io/badge/Build%20Time-1000%2B%20estimated%20hours-8B5CF6?style=for-the-badge&labelColor=111827" alt="Estimated application build hours" />
 </p>
 
+<!-- profile-date:start -->
+<p align="center">
+  <sub><strong>Daily pulse:</strong> 2026-06-27 &middot; America/New_York</sub>
+</p>
+<!-- profile-date:end -->
+
 Public contribution counts are calendar totals checked for 2024, 2025, and 2026. Estimated build hours are a portfolio signal based on shipped application work, not a GitHub-measured metric.
 
 ---
