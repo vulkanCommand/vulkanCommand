@@ -1,17 +1,15 @@
-name: Refresh Daily Pulse
+name: Refresh Profile Clock
 
 on:
   schedule:
-    # 04:00 UTC hits midnight during EDT; 05:00 UTC hits midnight during EST.
-    - cron: "0 4 * * *"
-    - cron: "0 5 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: refresh-daily-pulse
+  group: refresh-profile-clock
   cancel-in-progress: false
 
 jobs:
@@ -23,13 +21,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update profile date
+      - name: Update profile clock
         shell: bash
         run: |
           set -euo pipefail
 
           export TZ="$TIMEZONE"
-          export DISPLAY_DATE="$(date '+%B %-d, %Y')"
+          export CLOCK_STAMP="$(date '+%Y-%m-%d %H:%M ET')"
 
           python3 - <<'PY'
           from pathlib import Path
@@ -37,13 +35,13 @@ jobs:
           import re
           import sys
 
-          display_date = os.environ["DISPLAY_DATE"]
+          clock_stamp = os.environ["CLOCK_STAMP"]
 
           readme = Path("README.md")
           readme_text = readme.read_text(encoding="utf-8")
           readme_next, readme_count = re.subn(
-              r"(<!-- profile-date:start -->\s*<p align=\"center\">\s*<sub><strong>Daily pulse:</strong> )\d{4}-\d{2}-\d{2}",
-              lambda match: match.group(1) + display_date,
+              r"(<!-- profile-clock:start -->\s*<p align=\"center\">\s*<sub><strong>Local time:</strong> )\d{4}-\d{2}-\d{2} \d{2}:\d{2} ET",
+              lambda match: match.group(1) + clock_stamp,
               readme_text,
               flags=re.S,
           )
@@ -51,17 +49,17 @@ jobs:
           svg = Path("assets/command-center.svg")
           svg_text = svg.read_text(encoding="utf-8")
           svg_next, svg_count = re.subn(
-              r"(Daily pulse: )\d{4}-\d{2}-\d{2}",
-              lambda match: match.group(1) + display_date,
+              r"(Local time: )\d{4}-\d{2}-\d{2} \d{2}:\d{2} ET",
+              lambda match: match.group(1) + clock_stamp,
               svg_text,
           )
 
           if readme_count != 1 or svg_count != 1:
-              print("Expected to update both profile date placeholders exactly once.", file=sys.stderr)
+              print("Expected to update both profile clock placeholders exactly once.", file=sys.stderr)
               sys.exit(1)
 
           if readme_next == readme_text and svg_next == svg_text:
-              print("Profile date is already current; no file changes needed.")
+              print("Profile clock is already current; no file changes needed.")
               sys.exit(0)
 
           readme.write_text(readme_next, encoding="utf-8")
@@ -74,7 +72,7 @@ jobs:
           set -euo pipefail
 
           if git diff --quiet -- README.md assets/command-center.svg; then
-            echo "No profile date changes to commit."
+            echo "No profile clock changes to commit."
             exit 0
           fi
 
@@ -82,5 +80,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md assets/command-center.svg
-          git commit -m "chore: refresh daily profile pulse"
+          git commit -m "chore: refresh profile clock"
           git push origin HEAD:main
