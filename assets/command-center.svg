@@ -67,7 +67,7 @@
   <g transform="translate(124 286)">
     <rect width="290" height="142" rx="18" fill="#0B1222" stroke="#38BDF8" stroke-opacity="0.38"/>
     <text x="24" y="46" class="sans label">Public contributions</text>
-    <text x="24" y="101" class="sans value">844</text>
+    <text x="24" y="101" class="sans value">858</text>
     <text x="172" y="100" class="sans small">2024-2026</text>
   </g>
 
@@ -129,9 +129,5 @@
     <text x="764" y="29" class="sans chip">professional shipping</text>
   </g>
 
-<<<<<<< Updated upstream
-  <text x="600" y="750" text-anchor="middle" class="mono" font-size="16" fill="#8CA3C7">Local time: 2026-07-10 21:03 ET</text>
-=======
-  <text x="600" y="750" text-anchor="middle" class="mono" font-size="16" fill="#8CA3C7">Local time: 2026-07-10 23:54 ET</text>
->>>>>>> Stashed changes
+  <text x="600" y="750" text-anchor="middle" class="mono" font-size="16" fill="#8CA3C7">Local time: 2026-07-14 23:37 ET</text>
 </svg>
