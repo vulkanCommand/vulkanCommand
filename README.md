@@ -1,16 +1,24 @@
-## Hi, I'm Durga Kalyan
+<div align="center">
 
-**Software engineer building AI systems, cloud platforms, and production-ready products.**
+<img src="./assets/hero.svg" alt="Durga Kalyan Gandiboyina — Software engineer building AI systems, cloud platforms, and production-ready products" width="100%" />
 
-I'm pursuing an M.S. in Computer Science at Florida Atlantic University. I work across the full stack: mobile and web clients, Go and Python services, LLM-backed workflows, and the cloud infrastructure, CI/CD, and observability that keep them running after launch.
+<br />
+
+[![Portfolio](https://img.shields.io/badge/durgakalyan.com-0a1120?style=for-the-badge&logo=googlechrome&logoColor=60a5fa)](https://durgakalyan.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1120?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://linkedin.com/in/durgakalyan)
+[![Email](https://img.shields.io/badge/gdkalyan2109@gmail.com-0a1120?style=for-the-badge&logo=gmail&logoColor=60a5fa)](mailto:gdkalyan2109@gmail.com)
+
+<br />
+
+I'm pursuing an **M.S. in Computer Science at Florida Atlantic University**. I work across the full stack: mobile and web clients, Go and Python services, LLM-backed workflows, and the cloud infrastructure, CI/CD, and observability that keep them running after launch.
 
 **Currently open to full-time roles** in AI engineering, cloud/platform engineering, and full-stack product development.
 
-[![Portfolio](https://img.shields.io/badge/durgakalyan.com-24292f?style=flat-square&logo=googlechrome&logoColor=white)](https://durgakalyan.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgakalyan)
-[![Email](https://img.shields.io/badge/gdkalyan2109@gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:gdkalyan2109@gmail.com)
+</div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<sub>CHAPTER 01</sub>
 
 ### Selected work
 
@@ -43,18 +51,32 @@ Private two-person watch rooms with direct screen and voice streaming. Firebase 
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<sub>CHAPTER 02</sub>
 
 ### Technical focus
 
-- **Languages:** Go, TypeScript, Python, C#, SQL, Bash
-- **Applications:** React, React Native, Expo, FastAPI, ASP.NET Core
-- **AI:** OpenAI, Claude, Gemini, Amazon Bedrock, RAG, vector search
-- **Cloud:** Google Cloud (Cloud Run, Cloud SQL, Storage), AWS (Lambda, S3, API Gateway)
-- **Platform:** Docker, Traefik, PostgreSQL, Firebase, GitHub Actions, Prometheus, Grafana
+| | |
+| --- | --- |
+| **Languages** | Go, TypeScript, Python, C#, SQL, Bash |
+| **Applications** | React, React Native, Expo, FastAPI, ASP.NET Core |
+| **AI** | OpenAI, Claude, Gemini, Amazon Bedrock, RAG, vector search |
+| **Cloud** | Google Cloud (Cloud Run, Cloud SQL, Storage), AWS (Lambda, S3, API Gateway) |
+| **Platform** | Docker, Traefik, PostgreSQL, Firebase, GitHub Actions, Prometheus, Grafana |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<sub>CHAPTER 03</sub>
 
 ### Recognition
 
 - **DXC Champ Award** for software development and infrastructure automation
 - **Academic Excellence** recognition, Florida Atlantic University (4.0 semester GPA)
 - Student member of the **Free Software Foundation**
+
+<br />
+
+<div align="center">
+  <a href="mailto:gdkalyan2109@gmail.com"><img src="./assets/footer.svg" alt="Let's build something that ships." width="100%" /></a>
+</div>

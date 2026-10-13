@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Durga Kalyan Gandiboyina</title>
+  <desc id="desc">Software engineer building AI systems, cloud platforms, and production-ready products.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05070c"/>
+      <stop offset="0.55" stop-color="#0a1120"/>
+      <stop offset="1" stop-color="#04060a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0.55" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0.75"/>
+    </radialGradient>
+    <linearGradient id="flare" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#bfdbfe" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nameFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#9fb3d1"/>
+    </linearGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix values="0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 0.06 0"/>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="420" rx="14"/></clipPath>
+    <style>
+      .serif { font-family: 'Georgia', 'Times New Roman', serif; }
+      .sans  { font-family: 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      .mono  { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+
+      .fade-1 { opacity: 0; animation: fadeUp 1.6s ease-out 0.3s forwards; }
+      .fade-2 { opacity: 0; animation: fadeUp 1.6s ease-out 1.1s forwards; }
+      .fade-3 { opacity: 0; animation: fade 1.4s ease-out 1.9s forwards; }
+      .name   { opacity: 0; animation: reveal 2.2s cubic-bezier(.2,.7,.2,1) 0.5s forwards; }
+
+      .flare  { transform-origin: 600px 236px; transform: scaleX(0); opacity: 0;
+                animation: flare 2.4s ease-out 0.4s forwards; }
+      .sweep  { animation: sweep 7s ease-in-out 2.5s infinite; }
+      .glow   { animation: breathe 6s ease-in-out infinite; transform-origin: 600px 210px; }
+
+      .role   { opacity: 0; animation: roles 12s ease-in-out infinite; }
+      .r2 { animation-delay: 4s; }
+      .r3 { animation-delay: 8s; }
+
+      .rec    { animation: blink 1.4s steps(1) infinite; }
+
+      @keyframes fade    { to { opacity: 1; } }
+      @keyframes fadeUp  { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes reveal  { from { opacity: 0; letter-spacing: 18px; } to { opacity: 1; letter-spacing: 2px; } }
+      @keyframes flare   { 0% { transform: scaleX(0); opacity: 0; } 40% { opacity: 1; } 100% { transform: scaleX(1); opacity: 0.55; } }
+      @keyframes sweep   { 0% { transform: translateX(-500px); } 60%, 100% { transform: translateX(1300px); } }
+      @keyframes breathe { 0%, 100% { opacity: 0.75; } 50% { opacity: 1; } }
+      @keyframes roles   { 0% { opacity: 0; } 5%, 28% { opacity: 1; } 33%, 100% { opacity: 0; } }
+      @keyframes blink   { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0.15; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <!-- Backdrop -->
+    <rect width="1200" height="420" fill="url(#bg)"/>
+    <ellipse class="glow" cx="600" cy="210" rx="520" ry="200" fill="url(#glow)"/>
+
+    <!-- Faint perspective grid -->
+    <g stroke="#1e2a44" stroke-width="1" opacity="0.5">
+      <path d="M0 330 H1200 M0 350 H1200 M0 374 H1200"/>
+      <path d="M600 300 L80 420 M600 300 L330 420 M600 300 L600 420 M600 300 L870 420 M600 300 L1120 420"/>
+    </g>
+
+    <!-- Anamorphic flare -->
+    <rect class="flare" x="120" y="235" width="960" height="2" fill="url(#flare)"/>
+
+    <!-- Light sweep -->
+    <rect class="sweep" x="0" y="0" width="420" height="420" fill="url(#sweep)" transform="skewX(-20)"/>
+
+    <!-- Title block -->
+    <text class="mono fade-1" x="600" y="128" text-anchor="middle" font-size="13" letter-spacing="6" fill="#60a5fa">SOFTWARE ENGINEER  ·  M.S. COMPUTER SCIENCE</text>
+    <text class="serif name" x="600" y="208" text-anchor="middle" font-size="62" fill="url(#nameFill)">Durga Kalyan Gandiboyina</text>
+
+    <g class="sans fade-2" font-size="20" fill="#c7d2e3" text-anchor="middle">
+      <text class="role"    x="600" y="276">Building <tspan fill="#ffffff" font-weight="600">AI systems</tspan> that hold up in production</text>
+      <text class="role r2" x="600" y="276">Shipping <tspan fill="#ffffff" font-weight="600">cloud platforms</tspan> from infra to observability</text>
+      <text class="role r3" x="600" y="276">Releasing <tspan fill="#ffffff" font-weight="600">full-stack products</tspan> people actually use</text>
+    </g>
+
+    <!-- Grain + vignette -->
+    <rect width="1200" height="420" filter="url(#grain)"/>
+    <rect width="1200" height="420" fill="url(#vignette)"/>
+
+    <!-- Letterbox bars -->
+    <rect width="1200" height="44" fill="#000"/>
+    <rect y="376" width="1200" height="44" fill="#000"/>
+
+    <!-- Slate / HUD -->
+    <g class="mono fade-3" font-size="11" letter-spacing="2" fill="#6b7a93">
+      <circle class="rec" cx="34" cy="22" r="4" fill="#ef4444"/>
+      <text x="46" y="26">REC</text>
+      <text x="1166" y="26" text-anchor="end">vulkanCommand</text>
+      <text x="34" y="403">AI  ·  CLOUD  ·  FULL STACK</text>
+      <text x="1166" y="403" text-anchor="end">OPEN TO FULL-TIME ROLES</text>
+    </g>
+  </g>
+</svg>
