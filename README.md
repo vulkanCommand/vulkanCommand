@@ -55,20 +55,6 @@ Private two-person watch rooms with direct screen and voice streaming. Firebase 
 
 <sub>CHAPTER 02</sub>
 
-### Technical focus
-
-| | |
-| --- | --- |
-| **Languages** | Go, TypeScript, Python, C#, SQL, Bash |
-| **Applications** | React, React Native, Expo, FastAPI, ASP.NET Core |
-| **AI** | OpenAI, Claude, Gemini, Amazon Bedrock, RAG, vector search |
-| **Cloud** | Google Cloud (Cloud Run, Cloud SQL, Storage), AWS (Lambda, S3, API Gateway) |
-| **Platform** | Docker, Traefik, PostgreSQL, Firebase, GitHub Actions, Prometheus, Grafana |
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<sub>CHAPTER 03</sub>
-
 ### Recognition
 
 - **DXC Champ Award** for software development and infrastructure automation
